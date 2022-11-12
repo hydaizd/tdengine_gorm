@@ -2,8 +2,8 @@ package using_test
 
 import (
 	"fmt"
-	"github.com/taosdata/tdengine_gorm/clause/tests"
-	"github.com/taosdata/tdengine_gorm/clause/using"
+	"github.com/hydaizd/tdengine_gorm/clause/tests"
+	"github.com/hydaizd/tdengine_gorm/clause/using"
 	"gorm.io/gorm/clause"
 	"testing"
 )
